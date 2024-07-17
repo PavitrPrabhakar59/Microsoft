@@ -48,8 +48,6 @@
 
 ![download](https://github.com/user-attachments/assets/157345b4-7d1d-4e27-aae1-eb3c08fe6428)
 
-## Footnotes
-
 [^1]:https://www.microsoft.com/en-us/download/details.aspx?id=49117
 [^2]:https://config.office.com/deploymentsettings
 [^3]:https://massgrave.dev/
